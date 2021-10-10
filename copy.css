@@ -1,0 +1,20 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+p{
+    font-family: sans-serif;
+}
+pre{
+    color: brown;
+}
+table,td{
+    border: 1px solid black
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
